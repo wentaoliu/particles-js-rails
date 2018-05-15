@@ -1,0 +1,11 @@
+{
+    "name": "particles-js-rails",
+    "version": "2.0.0",
+    "description": "Rails assets wrapper for https://github.com/VincentGarreau/particles.js",
+    "author": "Wentao Liu <liuwnt@gmail.com>",
+    "repository": "https://github.com/wentaoliu/particles-js-rails",
+    "devDependencies": {
+        "gulp": "^3.9.1",
+        "particles.js": "^2.0.0"
+    }
+}
